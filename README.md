@@ -34,4 +34,11 @@ __Procedure__:
 
 __Output_:
 
+<img width="600" height="854" alt="Screenshot 2025-11-26 180734" src="https://github.com/user-attachments/assets/1ddd84dc-aea5-4c20-b0a0-9d9e6c6e0024" />
+
+<img width="695" height="416" alt="Screenshot 2025-11-26 180752" src="https://github.com/user-attachments/assets/9c1c2ad6-5d46-4439-9909-f8e4fa323e93" />
+
+
 __Result__:
+
+Thus the frequency Multiplexing techeniqu was succesfully implemented using scilab.
